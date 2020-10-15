@@ -1,0 +1,15 @@
+F:\Computer Learning\C#\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+F:\Computer Learning\C#\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+F:\Computer Learning\C#\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\MainWindow.g.cs
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\App.g.cs
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.cache
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.lref
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\MainWindow.baml
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.g.resources
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+F:\Computer Learning\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
